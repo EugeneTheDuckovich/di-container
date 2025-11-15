@@ -416,3 +416,8 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# https://github.com/augustoproiete/EmptyLicensesLicx
+*.licx
+
+.idea/
